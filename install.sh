@@ -64,7 +64,7 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "HarleyHosting" ]; then
+  if [ "$USER_TOKEN" = "Harley422010#" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Buy dulu wkww Ke HarleyHosting Telegram @HarleyHosting${NC}"
